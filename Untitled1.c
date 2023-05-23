@@ -8,6 +8,9 @@ int main()
         printf("You Entered Even Number");
 
     }
-
+    else
+    {
+        printf("You Entered Odd Number");
+    }
     return 0;
 }
