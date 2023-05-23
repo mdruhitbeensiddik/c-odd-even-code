@@ -5,12 +5,12 @@ int main()
 
     if(n%2==0)
     {
-        printf("You Entered Even Number");
+        printf("Even Number");
 
     }
     else
     {
-        printf("You Entered Odd Number");
+        printf("Odd Number");
     }
     return 0;
 }
